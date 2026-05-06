@@ -7,7 +7,7 @@ int main() {
 
     int n = strlen(s);
 
-    // Create doubled string
+    
     char t[200010];
     strcpy(t, s);
     strcat(t, s);
